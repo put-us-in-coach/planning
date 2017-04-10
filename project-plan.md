@@ -1,7 +1,6 @@
 ## Team name:
  - Put Us In, Coach!
 
-
 ## Team members:
  - Reginal Grant
  - Serg Tsogtbaatar
@@ -23,11 +22,11 @@ Emphasis on an intuitive interface.
 - Notes
 - Positions 
 
-## Teams
+### Teams
 - Players (an array)
 - Games (an array)
 
-## Games
+### Games
 - Lineup / players present (an array)
 - Positions w/ player currently in game (dictionary collection), e.g. `playfield.center`, `playfield.forwardLeft`
 - Total game time
