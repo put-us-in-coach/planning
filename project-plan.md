@@ -58,6 +58,8 @@ Emphasis on an intuitive interface.
 
 ## Stretch goals:
   - Sharing
+	  - With other coaches
+	  - Player status with parents
   - Player notes / standard position
   - Multiple teams / squads
   - Multiple sports
