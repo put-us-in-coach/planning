@@ -1,0 +1,78 @@
+# Monday standup
+Apr 10, 9:30 AM
+
+## Where are we at
+### Regenal
+Planning document, wireframes
+
+### Serg
+Preparation
+
+### Robert
+Planning document, wireframes
+
+## What we need to do today
+- Get Xcode project started with initial storyboard
+- Build basic model objects
+- Researching CloudKit sharing
+
+## Who's doing what
+- All: Set up project, storyboard layouts, model objects
+
+## What challenges we expect
+- Getting started (where to start?)
+- Gesture recognizers
+- Keeping timers active in background
+
+
+# Notes
+## Questions
+- How to strategically use nav bars/controllers
+
+## to research
+- NSTimer
+- Get a placeholder player image
+- eventkit
+- init game objects with roster
+
+## feedback
+- seasons
+- leagues, number of players, game duration
+- add existing players to new team
+- ability to edit timer start
+- edit start first half, 2nd half times
+- period times
+
+# Wrap up
+- [x] Project & repo initialized
+- [x] Model object classes built
+- [x] Wireframes & storyboard built out
+- ~~CloudKit research~~
+
+---
+
+# Tuesday standup
+Apr 11, 9:45 AM
+
+## Where we are at
+- Core views and model objects defined.
+- Good progress on wireframe, workflow.
+- Feedback from client (Brook) driving some changes
+
+## What we need to do today
+**Core functionality:**
+
+- Create players to add to team
+	- Text fields
+	- Capturing favored positions
+- Add players to field
+- Timers?
+- Adjust # of positions on field
+
+### Who's doing what
+Shared programming for now, we may split responsibilities when we start tackling individual features.
+
+## What challenges we expect
+- Persisting state [Ray Wenderlich tutorial](https://www.raywenderlich.com/117471/state-restoration-tutorial)
+- Tackling timers
+- Saving data (season records, etc.)
