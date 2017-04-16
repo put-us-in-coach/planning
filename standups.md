@@ -103,3 +103,28 @@ Apr 12, 9:15 AM
 - Player & roster model structure
 	- We want to share a single array, and modify from either roster table view or game field collection view
 	- Don't remove from roster; mark as on field or not
+
+--
+
+# Wednesday PM todos:
+- [x] Remove/hide players from bench when added to field
+- [ ] Move players between positions
+- [x] Return field players to bench
+- [ ] Replace players on field
+- [x] Return to full roster view
+- [x] Update timers on players
+
+---
+
+### Timer stuff
+change timer gestures?
+
+- double tap, reset game timer, pause player timers  
+- long press, reset all
+ 
+
+---
+# Friday final touches
+
+- launch screen storyboard
+- remove background colors from active player cells
